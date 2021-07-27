@@ -139,6 +139,9 @@ function playSound(soundId) {
             case 'change':
                 new Audio('res/snd_change.wav').play();
                 break;
+            case 'money':
+                new Audio('res/snd_money.wav').play();
+                break;
             default:
                 break;
         }
