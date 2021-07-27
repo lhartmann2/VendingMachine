@@ -1,0 +1,11 @@
+.dPanel {
+    width: 75%;
+    height: 90%;
+    float: left;
+
+}
+
+.cPanel {
+    margin-left: 75%;
+    height: 90%;
+}
